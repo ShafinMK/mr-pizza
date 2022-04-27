@@ -1,0 +1,130 @@
+section {
+    display: flex;
+    height: 500px;
+    /* border: 1px solid black; */
+    padding: 10px 20px;
+    margin-bottom: 5px;
+}
+body{
+    margin: 0;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.half-width {
+    width: 50%;
+    margin-left: 90px;
+}
+
+.centering{
+    text-align: center;
+    
+}
+h3{
+    font-size: 36px;
+}
+.firstSection img {
+    width: 40%;
+    
+
+}
+.secondSection img {
+    width: 36%;
+    
+
+}
+
+.secondSection p{
+    width: 50%;
+}
+
+
+.secondSection{
+ background-image: url("images/Frame\ 56.jpg");
+}
+p{
+    padding: 20px 0;
+    color: rgb(87, 84, 84);
+}
+
+h1 {
+    
+    font-size: 50px;
+    color: rgb(87, 84, 84);
+}
+h2{
+    
+    font-size: 30px;
+    color: rgb(87, 84, 84);
+}
+.orange{
+    color: orange
+}
+.red{
+    color: red;
+}
+
+.orange-yellow-grad{
+    background-image: linear-gradient(to bottom right, red , yellow);
+}
+.linkbutton{
+    padding: 20px 40px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+
+}
+#menu{
+    margin: auto;
+    width: 40%;
+}
+
+.card{
+    width: 18%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px lightgray;
+    padding: 20px 20px;
+    /* margin: 0 0 150px 0; */
+    margin-left: 180px;
+    
+    height: 400px;
+    
+}
+.card img {
+    width: 100%;
+    border-radius: 20px;
+    height: 200px;
+}
+
+.blackh1{
+    color: black;
+    
+}
+.no-margin{
+    margin: 0;
+}
+.reviews{
+    display: flex;
+    
+    margin: 100px 150px;
+    box-shadow: 10px 10px 20px lightgrey;
+    border-radius: 10px;
+    padding: 20px 30px;
+}
+.review{
+    width: 20%;
+    
+    margin-left: 120px;
+    padding: 20px;
+}
+
+.white-text{
+    color: white;
+}
+footer{
+    height: 200px;
+    border: 1px solid black;
+    background-color: black;
+
+}
